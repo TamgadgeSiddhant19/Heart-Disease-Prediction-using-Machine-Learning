@@ -56,17 +56,15 @@ Adjust paths and flags as needed — see scripts and notebooks in the repo for d
 
 Logistic Regression
 - Accuracy: 84.67%
-- Precision: 0.81
-- Recall: 0.81
-- F1-Score: 0.82
-- ROC-AUC: 0.641
+- Precision: 0.62
+- Recall: 0.06
+- F1-Score: 0.11
 
 Random Forest Classifier
 - Accuracy: 85.38%
-- Precision: 0.83
-- Recall: 0.82
-- F1-Score: 0.82
-- ROC-AUC: 0.70
+- Precision: 0.76
+- Recall: 0.10
+- F1-Score: 0.11
 
 ---
 
